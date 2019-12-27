@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-main()
+int main()
 {
-    
+    float a,b,c;
+    cout << "A";
+    return 0;
+
 }
